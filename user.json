@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Rodney",
+                "last": "Thompson"
+            },
+            "location": {
+                "street": {
+                    "number": 5047,
+                    "name": "Woodlawn Avenue"
+                },
+                "city": "Carrick-on-Suir",
+                "state": "Roscommon",
+                "country": "Ireland",
+                "postcode": 19426,
+                "coordinates": {
+                    "latitude": "23.4223",
+                    "longitude": "-142.4202"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "email": "rodney.thompson@example.com",
+            "login": {
+                "uuid": "def8f2c1-847b-4327-b44e-a1e641340f0a",
+                "username": "goldenwolf689",
+                "password": "dead",
+                "salt": "IrCUohCT",
+                "md5": "ae02afb67745024f800437be2c5d8d12",
+                "sha1": "05b1a5cd2f11e7fe4be0fb9b0199ba37bd234df4",
+                "sha256": "fe774062e8ac7d034d98e3dd419a65288867bfe46585113c3439415e0e7dc3e2"
+            },
+            "dob": {
+                "date": "1949-01-16T18:45:26.083Z",
+                "age": 71
+            },
+            "registered": {
+                "date": "2017-10-11T10:28:10.600Z",
+                "age": 3
+            },
+            "phone": "021-022-0906",
+            "cell": "081-755-7527",
+            "id": {
+                "name": "PPS",
+                "value": "5226837T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/39.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "7937a057223dc585",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
